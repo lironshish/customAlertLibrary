@@ -5,6 +5,7 @@ import android.app.Dialog;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+
 import com.example.customdialogs.R;
 
 public class CustomErrorDialog {
@@ -15,6 +16,7 @@ public class CustomErrorDialog {
 
     public void show(Activity activity, String message) {
         final Dialog dialog = new Dialog(activity);
+        dialog.setContentView(R.layout.custom_error_alert_dialog);
         findVies(dialog);
         error_TXT_message.setText(message);
         error_IMG_close.setOnClickListener(new View.OnClickListener() {

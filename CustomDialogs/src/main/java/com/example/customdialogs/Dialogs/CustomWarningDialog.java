@@ -17,6 +17,8 @@ public class CustomWarningDialog {
 
     public void show(Activity activity, String message) {
         final Dialog dialog = new Dialog(activity);
+        dialog.setContentView(R.layout.custom_warning_alert_dialog);
+
         findVies(dialog);
         warning_TXT_message.setText(message);
         warning_IMG_close.setOnClickListener(new View.OnClickListener() {

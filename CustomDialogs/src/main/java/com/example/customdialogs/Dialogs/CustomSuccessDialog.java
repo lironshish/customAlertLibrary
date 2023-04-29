@@ -17,6 +17,8 @@ public class CustomSuccessDialog {
 
     public void show(Activity activity, String message) {
         final Dialog dialog = new Dialog(activity);
+        dialog.setContentView(R.layout.custom_success_alert_dialog);
+
         findVies(dialog);
         success_TXT_message.setText(message);
         success_IMG_close.setOnClickListener(new View.OnClickListener() {

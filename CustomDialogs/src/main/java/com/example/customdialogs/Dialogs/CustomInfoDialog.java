@@ -16,6 +16,8 @@ public class CustomInfoDialog {
 
     public void show(Activity activity, String message) {
         final Dialog dialog = new Dialog(activity);
+        dialog.setContentView(R.layout.custom_info_alert_dialog);
+
         findVies(dialog);
         info_TXT_message.setText(message);
         info_IMG_close.setOnClickListener(new View.OnClickListener() {
