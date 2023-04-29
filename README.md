@@ -1,9 +1,20 @@
-# customAlertLibrary
+# Custom Alert Dialogs Library
 
 <p align="left">
   <a href="https://jitpack.io/#lironshish/customAlertLibrary/1.0"><img alt="License" src="https://badgen.net/badge/Jitpack/1.0/orange?icon=github"/></a>
   <a href="https://github.com/lironshish"><img alt="Profile" src="https://badgen.net/badge/Github/lironshish/green?icon=github"/></a>
 </p>
+
+## An Android View library. You can customize awesome Popup Alert Dialogs by using this library.
+
+### When downloading the library, you can access customDialogs and pull the relevant dialogs from there
+- Error Dialog
+- Warning Dialog
+- Info Dialog
+- Success Dialog
+
+## Screenshots
+
 
 
 ## Download
