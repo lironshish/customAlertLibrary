@@ -16,10 +16,10 @@
 ## Screenshots
 
 <div>
-  <img src="![image](https://user-images.githubusercontent.com/62293320/235295888-9ee756ad-22c9-45c9-8516-0208d4f59ee0.png)" width="200" height="300"/>
-   <img src="![image](https://user-images.githubusercontent.com/62293320/235295895-b183126c-a334-4790-b9d4-a6e387d64cac.png)"  width="200" height="300"/>
-    <img src="![image](https://user-images.githubusercontent.com/62293320/235295900-c4272f94-6c34-4a2a-8bb0-d98a244e24e8.png)"  width="200" height="300"/>
-    <img src="![image](https://user-images.githubusercontent.com/62293320/235295909-a9392777-ad4f-4880-b0a0-9091c4a419f8.png)"  width="200" height="300"/>
+  <img src="https://user-images.githubusercontent.com/62293320/235295888-9ee756ad-22c9-45c9-8516-0208d4f59ee0.png" width="200" height="300"/>
+   <img src="https://user-images.githubusercontent.com/62293320/235295895-b183126c-a334-4790-b9d4-a6e387d64cac.png"  width="200" height="300"/>
+    <img src="https://user-images.githubusercontent.com/62293320/235295900-c4272f94-6c34-4a2a-8bb0-d98a244e24e8.png"  width="200" height="300"/>
+    <img src="https://user-images.githubusercontent.com/62293320/235295909-a9392777-ad4f-4880-b0a0-9091c4a419f8.png"  width="200" height="300"/>
 </div>
 
 
