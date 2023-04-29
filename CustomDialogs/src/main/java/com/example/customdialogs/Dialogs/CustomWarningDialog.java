@@ -1,4 +1,4 @@
-package com.example.assignment2.Dialogs;
+package com.example.customdialogs.Dialogs;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -6,7 +6,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.assignment2.R;
+import com.example.customdialogs.R;
+
 
 public class CustomWarningDialog {
 
