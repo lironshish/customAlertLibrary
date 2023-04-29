@@ -28,6 +28,7 @@ public class CustomSuccessDialog {
             }
         });
 
+        dialog.show();
     }
 
     private void findVies(Dialog dialog) {

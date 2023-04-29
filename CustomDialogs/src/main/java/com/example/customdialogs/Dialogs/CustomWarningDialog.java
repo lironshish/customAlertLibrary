@@ -27,6 +27,7 @@ public class CustomWarningDialog {
                 dialog.dismiss();
             }
         });
+        dialog.show();
 
     }
 

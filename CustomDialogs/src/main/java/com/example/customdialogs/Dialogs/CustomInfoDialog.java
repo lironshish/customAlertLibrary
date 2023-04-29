@@ -26,6 +26,7 @@ public class CustomInfoDialog {
                 dialog.dismiss();
             }
         });
+        dialog.show();
 
     }
 

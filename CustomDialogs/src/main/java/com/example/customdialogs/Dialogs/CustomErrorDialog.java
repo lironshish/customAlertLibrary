@@ -25,6 +25,7 @@ public class CustomErrorDialog {
                 dialog.dismiss();
             }
         });
+        dialog.show();
 
     }
 
