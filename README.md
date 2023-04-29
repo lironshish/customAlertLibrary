@@ -1,5 +1,4 @@
 # customAlertLibrary
-# SmsManagerLibrary
 
 <p align="left">
   <a href="https://jitpack.io/#lironshish/customAlertLibrary/1.0"><img alt="License" src="https://badgen.net/badge/Jitpack/1.0/orange?icon=github"/></a>
